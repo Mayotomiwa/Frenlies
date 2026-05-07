@@ -1,0 +1,9 @@
+export const FONT_THIN = "SpaceGrotesk-Light";
+export const FONT_EXTRALIGHT = "SpaceGrotesk-Light";
+export const FONT_LIGHT = "SpaceGrotesk-Light";
+export const FONT_REGULAR = "SpaceGrotesk-Regular";
+export const FONT_MEDIUM = "SpaceGrotesk-Medium";
+export const FONT_SEMIBOLD = "SpaceGrotesk-SemiBold";
+export const FONT_BOLD = "SpaceGrotesk-Bold";
+export const FONT_EXTRABOLD = "SpaceGrotesk-Bold";
+export const FONT_BLACK = "SpaceGrotesk-Bold";
