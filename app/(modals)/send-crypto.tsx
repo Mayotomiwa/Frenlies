@@ -1,2 +1,3 @@
-import SendCryptoScreen from "@/src/features/send-crypto";
+import SendCryptoScreen from "@/src/features/modals/send-crypto";
+
 export default SendCryptoScreen;

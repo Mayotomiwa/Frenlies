@@ -1,2 +1,3 @@
-import AudioRoomScreen from "@/src/features/audio-room";
+import AudioRoomScreen from "@/src/features/tabs/audio-room";
+
 export default AudioRoomScreen;

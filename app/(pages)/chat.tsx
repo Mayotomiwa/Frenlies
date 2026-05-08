@@ -1,2 +1,3 @@
-import ChatScreen from "@/src/features/chat";
+import ChatScreen from "@/src/features/pages/chat";
+
 export default ChatScreen;
